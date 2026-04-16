@@ -71,7 +71,7 @@ Motivated to continue building practical experience in secure architecture, risk
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISM-007ACC?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISA-0078D4?&style=for-the-badge&logo=pm&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISA-E6E6FA?&style=for-the-badge&logo=pm&logoColor=white" />
 <img src="https://img.shields.io/badge/-Scrum Master-FFA500?&style=for-the-badge&logo=pm&logoColor=white" />
 </div>
 </div>
