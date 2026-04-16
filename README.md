@@ -6,14 +6,13 @@ I am a Cybersecurity professional focused on NIST RMF, threat detection, and sec
 ## OBJECTIVE
 
 
-Cybersecurity professional specializing in the full lifecycle of system security using NIST RMF, from system categorization and security control selection to implementation, assessment, authorization, and continuous monitoring.
+Cybersecurity professional with hands-on experience in the full system security lifecycle using the NIST Framework, including system categorization, control selection, implementation, assessment, authorization, and continuous monitoring.
 
-My intrest includes Threats, Attacks & Vulnerabilities mitigation; Architecture Design and Implementation; Operations & Incident Response; and Governance, Risk & Compliance with additional focus on AI Security principles for securing modern intelligent systems (LLMs).
+Strong interest in threat mitigation, vulnerabilities management, secure architecture design, security operations, incident response, and governance risk, and compliance. Also passionate about the evolving field of Artificial Intelligence Security and securing modern intelligent systems such as large language models.
 
-Experienced in aligning enterprise environments with leading frameworks and regulations including ISO 27001–27005, PCI-DSS v4.0, SOC 2 & SOC 3, SOX, HIPAA, GDPR, and CCPA.
+Experience with major security frameworks and regulatory standards including ISO 27001–27005, PCI DSS, SOC 2, SOC 3, Sarbanes-Oxley Act, HIPAA, GDPR, and California Consumer Privacy Act.
 
-Passionate about designing secure architectures, strengthening detection and response capabilities, and delivering risk-informed security solutions that protect critical systems and data in real-world environments.
-
+Motivated to continue building practical experience in secure architecture, risk management, compliance, detection and response, and protecting critical systems and sensitive data in real-world environments.
 ## SKILLS/DOMAINS
 
 <div>
@@ -68,11 +67,13 @@ Passionate about designing secure architectures, strengthening detection and res
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISM-007ACC?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PMP-007ACC?&style=for-the-badge&logo=pm&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISA-007ACC?&style=for-the-badge&logo=pm&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scrum Master-007ACC?&style=for-the-badge&logo=pm&logoColor=white" />
+</div>
 </div>
 
 ## Projects
